@@ -14,10 +14,7 @@ public class Percolation {
     int[][] board;
     
     int currentSite;
-    int north;
-    int east;
-    int west;
-    int south;
+
     
     int width;
     

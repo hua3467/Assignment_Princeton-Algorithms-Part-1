@@ -3,8 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/aaronyang/Dropbox/Courses/PrincetonAlgorithms/Assignment_Algorithms/src/fundamentals/QuickFindUF.java</file>
-            <file>file:/Users/aaronyang/Dropbox/Courses/PrincetonAlgorithms/Assignment_Algorithms/src/fundamentals/QuickUnionUF.java</file>
+            <file>file:/Users/aaronyang/Dropbox/Courses/PrincetonAlgorithms/Assignment_Algorithms/src/fundamentals/WeightedQuickUnionUF.java</file>
+            <file>file:/Users/aaronyang/Dropbox/Courses/PrincetonAlgorithms/Assignment_Algorithms/src/fundamentals/Percolation.java</file>
+            <file>file:/Users/aaronyang/Dropbox/Courses/PrincetonAlgorithms/Assignment_Algorithms/src/fundamentals/PercolationStats.java</file>
         </group>
     </open-files>
 </project-private>
